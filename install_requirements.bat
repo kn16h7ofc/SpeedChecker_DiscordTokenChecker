@@ -4,7 +4,7 @@ title SpeedChecker
 color 0a
 cls
 
-pip install -r configs/requirements.txt
+pip install -r requirements.txt
 pause
 start SpeedChecker.exe
 cls
