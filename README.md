@@ -1,5 +1,8 @@
 # SpeedChecker
 
-Uma ferramenta desenvolvida com um intuito de ajudar developers de self-bots do discord, essa ferramenta checkar ser o token (da conta do usuário) é válida.
+Ferramenta desenvolvida com o objetivo de auxiliar os desenvolvedores de self-bots, esta ferramenta verifica se o token (da conta do usuário) é válido.
 
-<p>Developer: kn16h7</p>
+// Inglish
+A tool developed with the aim of helping discord self-bot developers, this tool checks whether the token (of the user's account) is valid.
+
+Developer: kn16h7
